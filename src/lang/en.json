@@ -1,0 +1,108 @@
+{
+  "login": {
+    "sign": "Sign in",
+    "text": "Enter your credentials to access your account",
+    "email": "Email",
+    "password": "Password",
+    "forgot": "Forgot your password?",
+    "reset": "Reset Password",
+    "loguot": "Log out",
+    "new_password": "New Password",
+    "confirm_password": "Confirm Password"
+  },
+  "director": {
+    "dashboard": "Dashboard",
+    "staffList": "Staff list",
+    "addStaff": "Add staff",
+    "profile": "Profile"
+  },
+  "admins": {
+    "home": "Home",
+    "group": "Groups",
+    "students": "Students",
+    "rooms": "Rooms",
+    "teachers": "Teachers",
+    "admin": "Admin"
+  },
+  "student": {
+    "profile": "Profile",
+    "lesson": "Lesson",
+    "personalDetails": "Personal details",
+    "email": "Email",
+    "phone1": "Phone 1",
+    "phone2": "Phone 2",
+    "classDetails": "Class Details",
+    "group": "Group",
+    "startTime": "Start time",
+    "status": "Status",
+    "video": "Video",
+    "homework": "Homework",
+    "deadline": "Deadline",
+    "date": "Date"
+  },
+  "admin": {
+    "courseList": "Course list",
+    "addCourse": "Add new course",
+    "addGroup": "Add new group",
+    "addStudent": "Add new student",
+    "addRoom": "Add new Room",
+    "addTeacher": "Add new Teacher",
+    "empty": "There is nothing",
+    "room": "Rooms",
+    "admin": "Admin",
+    "teacher": "Teachers",
+    "student": "Students",
+    "cours": "Cours",
+    "group": "Group",
+    "action": "Action",
+    "students": {
+      "firstname": "First name",
+      "lastname": "Last name",
+      "phonenumber": "Phone number"
+    },
+    "course": {
+      "name": "Cours name",
+      "coast": "Cours coast",
+      "period": "Cours period"
+    },
+    "groups": {
+      "name": "Group name",
+      "start_date": "Start date",
+      "end_date": "End date",
+      "days": "Days",
+      "start_time": "Start time",
+      "end_time": "End time",
+      "status": "Status"
+    },
+    "rooms": {
+      "name": "Room name",
+      "size": "Room size"
+    },
+    "teachers": {
+      "image": "Image",
+      "salary": "Salary"
+    }
+  },
+  "staffUpdateModal": {
+    "firstname": "First name",
+    "lastname": "Last name",
+    "phone": "Phone",
+    "role": "Role",
+    "admin":"Admin",
+    "teacher":"Teacher",
+    "email": "Email",
+    "salary": "Salary",
+    "update": "Update",
+    "change_user_role":"Change user Role"
+  },
+  "SingleStaff":{
+    "email":"email",
+    "phone":"phone",
+    "admin":"Admin",
+    "teacher":"Teacher",
+    "edit":"Edit"
+  },
+  "lang": "Lang",
+  "addStaff": "Add Staff",
+  "add": "Add"
+}

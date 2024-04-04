@@ -1,0 +1,108 @@
+{
+  "login": {
+    "sign": "Tizimga kirish",
+    "text": "Tizimga kirish uchun  ma'lumotlaringizni kiriting",
+    "email": "Elektron pochta",
+    "password": "Parol",
+    "forgot": "Parolni unutdingizmi?",
+    "reset": "Qayta Parolni o'rnatish",
+    "loguot": "Chiqish",
+    "new_password": "Yangi parol",
+    "confirm_password": "Parolni Qayta kiriting"
+  },
+  "director": {
+    "dashboard": "Asosiy",
+    "staffList": "Xodimlar ro'yxati",
+    "addStaff": "Xodim qo'shish",
+    "profile": "Profil"
+  },
+  "admins": {
+    "home": "Asosiy",
+    "group": "Guruhlar",
+    "students": "Talabalar",
+    "rooms": "Xonalar",
+    "teachers": "O'qtuvchilar",
+    "admin": "Admin"
+  },
+  "student": {
+    "profile": "Profil",
+    "lesson": "Dars",
+    "personalDetails": "Shaxsiy ma'lumotlar",
+    "email": "Elektron pochta",
+    "phone1": "Telefon raqami 1",
+    "phone2": "Telefon raqami 2",
+    "classDetails": "Sinf ma'lumotlari",
+    "group": "Guruh",
+    "startTime": "Boshlangan vaqt",
+    "status": "O'quvchi holati",
+    "video": "Video",
+    "homework": "Uyga vazifa",
+    "deadline": "Uyga vazifa muddati",
+    "date": "Sana"
+  },
+  "admin": {
+    "courseList": "Kurs ro'yhati",
+    "addCourse": "Yangi kurs qo'shish",
+    "addGroup": "Yangi guruh qo'shish",
+    "addStudent": "Yangi talaba qo'shish",
+    "addRoom": "Yangi xona qo'shish",
+    "addTeacher": "Yangi o'qituvchi qo'shish",
+    "room": "Xonalar",
+    "admin": "Administratorlar",
+    "teacher": "O'qituvchilar",
+    "student": "Talabalar",
+    "cours": "Kurslar",
+    "group": "Guruhlar",
+    "action": "Harakat",
+    "students": {
+      "firstname": "Ism",
+      "lastname": "Familiya",
+      "phonenumber": "Telefon raqam"
+    },
+    "course": {
+      "name": "Kurs nomi",
+      "coast": "Kurs narxi",
+      "period": "Kurslar davri"
+    },
+    "groups": {
+      "name": "Guruh nomi",
+      "start_date": "Boshlanish sanasi",
+      "end_date": "Tugash sanasi",
+      "days": "Kun",
+      "start_time": "Boshlanish vaqti",
+      "end_time": "Tugash vaqti",
+      "status": "Holat"
+    },
+    "rooms": {
+      "name": "Hona nomi",
+      "size": "Hona sig'imi"
+    },
+    "teachers": {
+      "image": "Rasm",
+      "salary": "Ish haqi"
+    }
+  },
+  "staffUpdateModal": {
+    "firstname": "Ism",
+    "lastname": "Familiya",
+    "phone": "Telefon raqam",
+    "role": "Rol",
+    "admin":"Admin",
+    "teacher":"O'qituvchi",
+    "email": "Email",
+    "salary": "Maosh",
+    "update": "Tahrirlash",
+    "change_user_role":"Foydalanuvchi rolini o'zgartirish"
+  },
+   "SingleStaff":{
+    "email":"Elektron pochta",
+    "phone":"Telefon raqam",
+    "admin":"Admin",
+    "teacher":"O'qituvchi",
+    "edit":"Tahrirlash"
+  },
+  "lang": "Til",
+  "addStaff": "Xodim qo'shish",
+  "empty": "Hech narsa yo'q",
+  "add": "Qo'shish"
+}
